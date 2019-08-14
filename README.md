@@ -10,7 +10,7 @@
 
 ### 最新
 
-* [世界，你好！](https://www.yangj.vip:8080/hello-solo)
+* [世界，你好！](https://www.yangj.vip/hello-solo)
 
 
 
