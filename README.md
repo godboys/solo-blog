@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [java基础——基本数据类型](https://www.yangj.vip/articles/2019/08/16/1565941928562.html)
 * [世界，你好！](https://www.yangj.vip/hello-solo)
 
 
