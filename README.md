@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [java容器之ArrayList](https://www.yangj.vip/articles/2019/08/21/1566367743931.html)
 * [每日一句](https://www.yangj.vip/articles/2019/08/19/1566182805390.html)
 * [String源码解析](https://www.yangj.vip/articles/2019/08/19/1566181416893.html)
 * [java容器——HashMap(一)](https://www.yangj.vip/articles/2019/08/19/1566178456884.html)
