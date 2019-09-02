@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [资源导向帖](https://www.yangj.vip/articles/2019/09/01/1567348183027.html)
 * [各种乱码解决方案(持续更新中......)](https://www.yangj.vip/articles/2019/08/29/1567056765393.html)
 * [springmvc异常集锦(持续更新中)](https://www.yangj.vip/articles/2019/08/29/1567047620785.html)
 * [springmvc:数据的接收](https://www.yangj.vip/articles/2019/08/29/1567045514497.html)
