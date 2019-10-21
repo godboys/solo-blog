@@ -20,7 +20,7 @@
 * [调试Tomcat源码(一)](https://www.yangj.vip/articles/2019/08/27/1566897317998.html)
 * [java中ArrayList中踩得坑](https://www.yangj.vip/articles/2019/08/26/1566814216255.html)
 * [java容器之ArrayList](https://www.yangj.vip/articles/2019/08/21/1566367743931.html)
-* [每日一句](https://www.yangj.vip/articles/2019/08/19/1566182805390.html)
+* [最美不过诗词！](https://www.yangj.vip/articles/2019/08/19/1566182805390.html)
 * [String源码解析](https://www.yangj.vip/articles/2019/08/19/1566181416893.html)
 * [java容器——HashMap(一)](https://www.yangj.vip/articles/2019/08/19/1566178456884.html)
 * [java基础——基本数据类型](https://www.yangj.vip/articles/2019/08/16/1565941928562.html)
